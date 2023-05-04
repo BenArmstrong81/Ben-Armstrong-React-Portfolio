@@ -1,0 +1,26 @@
+{
+  "name": "ben-armstrong-react-portfolio",
+  "version": "1.0.0",
+  "description": "20 React: React Portfolio ## Your Task",
+  "main": "index.js",
+  "homepage": "https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
