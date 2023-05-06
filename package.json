@@ -5,11 +5,18 @@
   "main": "index.js",
   "homepage": "https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
   "repository": {
     "type": "git",
@@ -21,6 +28,19 @@
     "url": "https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio/issues"
   },
   "dependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.2.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-bootstrap-icons": "^1.10.3",
+    "react-dom": "^18.2.0",
+    "react-on-screen": "^2.1.1",
+    "react-router-dom": "^6.11.1",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   }
 }
