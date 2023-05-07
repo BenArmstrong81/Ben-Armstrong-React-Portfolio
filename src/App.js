@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import Resume from "./pages/Resume";
 // import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 

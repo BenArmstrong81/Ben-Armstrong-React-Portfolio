@@ -25,7 +25,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio/issues"
+    "url": "https://github.com/BenArmstrong81/Ben-Armstrong-React-Portfolio"
   },
   "dependencies": {
     "gh-pages": "^5.0.0",
