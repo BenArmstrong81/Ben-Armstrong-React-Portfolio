@@ -1,10 +1,11 @@
-import Navbar from "./components/navbar";
-import Home from "./pages/home";
-import Portfolio from "./pages/portfolio";
-import Contact from "./pages/contact";
-import Footer from "./components/footer";
-import Resume from "./pages/resume";
-import { BrowserRouter as Router,  Route, Switch } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
+import Portfolio from "./pages/Portfolio";
+import Contact from "./pages/Contact";
+import Footer from "./components/Footer";
+import Resume from "./pages/Resume";
+// import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 
@@ -13,12 +14,12 @@ function App() {
     <div className="App">
       <Router>
         <Navbar />
-        <Switch>
-        <Route path="/" component={ Home } />
-        <Route path="/portfolio" component={ Portfolio } />
-        <Route path="/contact" component={ Contact } />
-        <Route path="/resume" component={ Resume } />
-        </Switch>
+        <Routes>
+        <Route path="/Home" element={ <Home/> } />
+        <Route path="/Portfolio" element={ <Portfolio/> } />
+        <Route path="/Contact" element={ <Contact/> } />
+        <Route path="/Resume" element={ <Resume/> } />
+        </Routes>
         <Footer />
       </Router>
 

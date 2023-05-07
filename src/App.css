@@ -116,7 +116,7 @@ p {
 }
 
 main {
-    background-image: url(../Images/Coding.jpg);
+    background-image: url(../public/images/Coding.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
