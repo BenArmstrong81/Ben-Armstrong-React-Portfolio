@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/css/main.882872f9.css",
-    "main.js": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/js/main.b3f01a54.js",
-    "static/js/787.cf66d2a7.chunk.js": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js",
-    "static/media/Coding.jpg": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/media/Coding.7f29107032c6a984b310.jpg",
-    "index.html": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/index.html",
-    "main.882872f9.css.map": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/css/main.882872f9.css.map",
-    "main.b3f01a54.js.map": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/js/main.b3f01a54.js.map",
-    "787.cf66d2a7.chunk.js.map": "/BenArmstrong81/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js.map"
+    "main.css": "/Ben-Armstrong-React-Portfolio/static/css/main.82427d27.css",
+    "main.js": "/Ben-Armstrong-React-Portfolio/static/js/main.0abf94ef.js",
+    "static/js/787.cf66d2a7.chunk.js": "/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js",
+    "static/media/Coding.jpg": "/Ben-Armstrong-React-Portfolio/static/media/Coding.7f29107032c6a984b310.jpg",
+    "index.html": "/Ben-Armstrong-React-Portfolio/index.html",
+    "main.82427d27.css.map": "/Ben-Armstrong-React-Portfolio/static/css/main.82427d27.css.map",
+    "main.0abf94ef.js.map": "/Ben-Armstrong-React-Portfolio/static/js/main.0abf94ef.js.map",
+    "787.cf66d2a7.chunk.js.map": "/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.882872f9.css",
-    "static/js/main.b3f01a54.js"
+    "static/css/main.82427d27.css",
+    "static/js/main.0abf94ef.js"
   ]
 }
