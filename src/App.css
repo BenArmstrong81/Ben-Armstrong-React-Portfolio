@@ -60,6 +60,7 @@ nav a:hover {
 p {
     font-size: 16px;
     text-align: start;
+    padding: 12px;
 }
 
 .about-me h2 {
@@ -115,7 +116,7 @@ p {
     flex-wrap: wrap;
 }
 
-main {
+body {
     background-image: url(../public/images/Coding.jpg);
     background-repeat: no-repeat;
     background-position: center;

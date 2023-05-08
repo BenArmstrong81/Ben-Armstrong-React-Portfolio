@@ -1,6 +1,7 @@
 .footer {
     width: 100%;
-    background-color:rgb(189, 229, 243);
+    background: rgb(47,85,120);
+    background: linear-gradient(0deg, rgba(47,85,120,1) 0%, rgba(47,85,120,1) 35%, rgba(130,129,127,1) 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +21,7 @@
 }
 
 .footer {
-    color: black;
+    color: white;
     font-size: 20px;
 }
 

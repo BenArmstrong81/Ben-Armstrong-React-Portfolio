@@ -11,6 +11,7 @@ function footer() {
       </div>
       <p>&copy; 2023 Benjamin Armstrong - Thanks for visiting 💖</p>
     </div>
+    
   )
 }
 

@@ -28,16 +28,6 @@ function Resume() {
     <li>PWA - Progressive Web Applications</li>
   </ul>
     </div>
-    <section id="Contact" class="Contact">
-    <h5>Contact Me & Resume</h5>
-    <ul>
-        <li>Phone: 0413 246 794</li>
-        <li>Email: <a href="mailto:benarmstrong@live.com">benarmstrong@live.com</a></li>
-        <li>GitHub: <a href="https://github.com/BenArmstrong81">BenArmstong81</a></li>
-        <li>Linkedin: <a href="https://www.linkedin.com/in/benjaminarmstrong1">Ben Armstrong</a></li>
-        <li>Resume: <a href="./public/images/Ben Armstrong_Curriculum Vitae with References.pdf">Curriculum Vitae</a></li>
-    </ul>
-</section>
     </div>
   );
 }

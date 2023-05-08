@@ -1,3 +1,9 @@
+:root {
+    --altruism-blue: #2F5578;
+    --text-colour-white: #ffffff;
+    --font-family: 'Ubuntu', 'arial', 'helvetica', 'sans-serif';
+}
+
 * {
     box-sizing: border-box;
 }
@@ -19,7 +25,8 @@ body {
    
 }
 .nav {
-    background-color: blue;
+    background: rgb(47,85,120);
+    background: linear-gradient(180deg, rgba(47,85,120,1) 0%, rgba(47,85,120,1) 35%, rgba(130,129,127,1) 100%);
     color: white;
     display: flex;
     justify-content: space-between;
@@ -46,12 +53,17 @@ body {
 }
 
 .nav li:hover {
-    background-color: #555;
+    color: #82817F;
     padding: 5px;
     border-radius: 5px;
 }
 
 .nav li:active {
-    background-color: #555;
+    /* background-color: red; */
+    text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px red;
+    cursor: pointer;
+    /* text-shadow: white 5px 5px 5px 5px; */
+    transform: translateY(0.1rem);
+    transition: transform 150ms;
 }
 
