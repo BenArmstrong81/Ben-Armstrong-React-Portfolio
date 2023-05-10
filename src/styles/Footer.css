@@ -6,15 +6,17 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-top: 10px;
-    
+    /* padding-top: 10px; */
+    position:absolute;
+   bottom:0;
+   padding-bottom: 1rem; 
 }
 
 .socialMedia {
     color: white;
-    margin-top: 15px;
+    margin-top: 20px;
     cursor: pointer;
-    gap: 20px;  
+    /* gap: 30px;   */
 }
 .linkin{
     margin-right: 20px;
@@ -22,6 +24,6 @@
 
 .footer {
     color: white;
-    font-size: 20px;
+    font-size: 18px;
 }
 

@@ -19,13 +19,13 @@ function Contact() {
       <form onSubmit={onSubmit}>
         <div className="mb-3">
           <label className="form-label" htmlFor="name">
-            Name
+            Full Name
           </label>
           <input className="form-control" type="text" id="name" required />
         </div>
         <div className="mb-3">
           <label className="form-label" htmlFor="email">
-            Email
+            Email Address
           </label>
           <input className="form-control" type="email" id="email" required />
         </div>

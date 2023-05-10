@@ -3,20 +3,33 @@
     width: 70%;
     text-align: center;
     margin: auto;
+    columns: white;
+    font-size: 35px;
 }
 .header {
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    /* text-align: center; */
-   
+    text-align: center;
 }
 
 .paragraph {
     margin-left: 20px;
     margin-right: 20px;
     display: flex;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 1.5em;
     margin-bottom: 30px;
+    color: white;
+}
+
+.Altruism {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }

@@ -13,14 +13,13 @@
 .header {
     padding: 20px;
     font: var(--font-family);
-    background-color: var(--altruism-blue);
     color: var(--text-colour-white);
-    display: flex;
-    justify-content: space-between;
+    /* display: flex;
+    justify-content: space-between; */
 }
 
 .header h1 {
-    font-size: 48px;
+    font-size: 54px;
 }
 
 .header nav {
@@ -64,7 +63,7 @@ p {
 }
 
 .about-me h2 {
-    font-size: 30px;
+    font-size: 45px;
 }
 
 .float-left {
@@ -121,6 +120,10 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: flex-start; */
+    flex-direction: column;  
 }
 
 .flexbox1-images{
@@ -198,13 +201,18 @@ body {
 }
 
 
-footer {
+.footer {
+    width: 100%;
+    background: rgb(47,85,120);
+    background: linear-gradient(0deg, rgba(47,85,120,1) 0%, rgba(47,85,120,1) 35%, rgba(130,129,127,1) 100%);
     display: flex;
     justify-content: center;
-    font: var(--font-family);
-    padding: 2%;
-    background-color: var(--altruism-blue);
-    color: var(--text-colour-white);
+    align-items: center;
+    flex-direction: column;
+    /* padding-top: 10px; */
+    position:absolute;
+   /* bottom:0; */
+   padding-bottom: 2.8rem; 
 }
 
   /* Media Queries */
