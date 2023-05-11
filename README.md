@@ -80,7 +80,7 @@ Building on the two thirds of the course and extending on from the last couple w
 
 # Deployment
 
-[Click here for the deployed application](https://tranquil-cliffs-58618.herokuapp.com/) <br/>
+[Click here for the deployed application](https://benarmstrong81.github.io/Ben-Armstrong-React-Portfolio/) <br/>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 # Installation  
 To install packages:
