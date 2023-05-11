@@ -28,9 +28,10 @@ function Resume() {
     <li>PWA - Progressive Web Applications</li>
   </ul>
     </div>
-    <div className="image">
-      <a href="/images/Ben Armstrong_Curriculum Vitae with References.pdf"> 
-      <img className="Resume" src={process.env.PUBLIC_URL + "/images/ResumeImageCropped.png"} width= "585" alt="Resume"/></a>
+    <div className="image2">
+      <h3>Download a copy of my Curriculum Vitae here:</h3>
+      <a href="/images/Ben_Armstrong_Curriculum_Vitae_with_References.pdf" Download="/images/Ben_Armstrong_Curriculum_Vitae_with_References.pdf">
+      <img className="Resume" src={process.env.PUBLIC_URL + "/images/ResumeImageCropped.png"} width= "590" alt="Resume"/></a>
     </div>
     </div>
   );
