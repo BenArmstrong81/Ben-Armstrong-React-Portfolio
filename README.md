@@ -1,14 +1,8 @@
 # Ben-Armstrong-React-Portfolio
 20 React: React Portfolio
-## Your Task
+## Our Task this Week
 
-Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
-
-Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
-
-You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
-
-**Important**: Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
+Our task this week was to build a portfolio using our new React skills. With the view it will help set us apart from other developers whose portfolios don’t use the latest technologies. We were to deploy this application to GitHub Pages. 
 
 ## User Story
 
@@ -47,51 +41,6 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
-
-## Mock-Up
-
-The following animation shows the web application's appearance and functionality:
-
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
-
-## Getting Started
-
-You’ll use `create-react-app` to build your portfolio, which will include the following:
-
-* A single `Header` component that appears on multiple pages
-
-* A single `Navigation` component within the header that will be used to conditionally render the different sections of your portfolio
-
-* A single `Project` component that will be used multiple times in the Portfolio section
-
-* A single `Footer` component that appears on multiple pages
-
-**Note**: Because this application doesn’t include a back end or connect to an API, the contact form doesn't need to save this information right now. You'll add back-end functionality in the next few weeks. In the meantime, consider including your email address and phone number on the Contact page.
-
-### Projects
-
-For each project that is featured in your portfolio, include the following:
-
-* An image of the deployed application (either a short animated GIF or screenshot)
-
-* The title of the project
-
-* A link to the deployed application
-
-* A link to the corresponding GitHub repository
-
-### Design
-
-As with the previous portfolio Challenge, remember that "good" design is subjective; however, your site should look polished. Here are a few guidelines on what that means:
-
-* Use mobile-first design.
-
-* Choose a color palette that distinguishes your site from the default Bootstrap theme and unstyled HTML sites. Refer to resources like [Coolors](https://coolors.co/) or another color scheme generator to help you create something that will stand out.
-
-* Ensure that the font size is large enough to read and that the colors don't cause eye strain.
-
-* Consider using animations and React component libraries. Note that this will not affect your grade, but it might impact how potential employers gauge your knowledge.
-
 ## Grading Requirements
 * Satisfies all of the preceding acceptance criteria plus the following:
     * Application must use React to render content.
@@ -127,7 +76,7 @@ As with the previous portfolio Challenge, remember that "good" design is subject
 *With special thanks to The University of Adelaide Full Stack Web Development Class.*
 
 # What-I-Learned
-Building on the two thirds of the course and extending on from the last couple weeks using Node.js we learnt how to incororate MongoDB (NoSQL) along with Mongoose. The modules in class included but not limited to; MongoDB, Mongoose, Virtuals, CRUD, Subdocuments, Models, Aggregates.
+Building on the two thirds of the course and extending on from the last couple weeks using Node.js we learnt how to incororate React.js, and how to make a more responsive application. The modules in class included but not limited to; Event handling, forms, hooks, fetching data, render elements and styling.
 
 # Deployment
 
@@ -147,23 +96,17 @@ Lastly to launch the application:
 npm run start
 ```
 # Usage
-Deployed Application on Heroku:
-![Deployed Application on Heroku.](./client/src/images/BenArmstrong_Heroku_Deployed_Application.PNG)
+Deployed Application - About Me:
+![Deployed Application - About Me](./public/images/BenArmstrong_DeployedApp_AboutMePage.PNG)
 
-Application Installation:
-![Application Installation.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_Installation.PNG)
+Deployed Application - Portfolio Showcase Page:
+![Deployed Application - Portfolio Showcase Page](./public/images/BenArmstrong_DeployedApp_PortfolioPage.PNG)
 
-Deployed Application on Heroku and Installed Application Interface:
-![Deployed Application on Heroku and Installed Application Interface.](./client/src/images/BenArmstrong_Heroku_Deployed_ApplicationAnd_Interface.PNG)
+Deployed Application - Contact Page:
+![Deployed Application - Contact Page](./public/images/BenArmstrong_DeployedApp_ContactMePage.PNG)
 
-Deployed Application Manifest:
-![Deployed Application Manifest.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_Manifest.PNG)
-
-Deployed Application Service Workers:
-![Deployed Application Service Workers.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_ServiceWorkers.PNG)
-
-Deployed Application Data Base:
-![Deployed Application Data Base.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_DataBase.PNG)
+Deployed Application - Resume Page:
+![Deployed Application - Resume Page](./public/images/BenArmstrong_DeployedApp_ResumePage.PNG)
 
 # Made-With
 
