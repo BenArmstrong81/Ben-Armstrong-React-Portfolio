@@ -6,7 +6,7 @@ function Portfolio() {
   
       <div className="image">
       <a href="https://benarmstrong81.github.io/Worldy-Music-at-Your-Fingertips/"> 
-      <img className="Project1" src={process.env.PUBLIC_URL + "/images/Freetify-deployed-image-working450x221.png"} width= "585" alt="Project1"/></a>
+      <img className="Project1" src={process.env.PUBLIC_URL + "/images/Freetify-deployed-image-working450x221.PNG"} width= "585" alt="Project1"/></a>
 
       <a href="https://github.com/BenArmstrong81/MetroMadness"> 
       <img className="Project2" src={process.env.PUBLIC_URL + "/images/MetroMadness_Screen2_ShowingWork_450x223.png"} width= "580" alt="Project2"/></a>
