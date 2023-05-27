@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ben-Armstrong-React-Portfolio/static/css/main.cba6351a.css",
-    "main.js": "/Ben-Armstrong-React-Portfolio/static/js/main.40a0cbe0.js",
+    "main.css": "/Ben-Armstrong-React-Portfolio/static/css/main.46e7c676.css",
+    "main.js": "/Ben-Armstrong-React-Portfolio/static/js/main.587b8076.js",
     "static/js/787.cf66d2a7.chunk.js": "/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js",
     "static/media/Coding.jpg": "/Ben-Armstrong-React-Portfolio/static/media/Coding.7f29107032c6a984b310.jpg",
     "index.html": "/Ben-Armstrong-React-Portfolio/index.html",
-    "main.cba6351a.css.map": "/Ben-Armstrong-React-Portfolio/static/css/main.cba6351a.css.map",
-    "main.40a0cbe0.js.map": "/Ben-Armstrong-React-Portfolio/static/js/main.40a0cbe0.js.map",
+    "main.46e7c676.css.map": "/Ben-Armstrong-React-Portfolio/static/css/main.46e7c676.css.map",
+    "main.587b8076.js.map": "/Ben-Armstrong-React-Portfolio/static/js/main.587b8076.js.map",
     "787.cf66d2a7.chunk.js.map": "/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cba6351a.css",
-    "static/js/main.40a0cbe0.js"
+    "static/css/main.46e7c676.css",
+    "static/js/main.587b8076.js"
   ]
 }
