@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/Ben-Armstrong-React-Portfolio/static/css/main.46e7c676.css",
-    "main.js": "/Ben-Armstrong-React-Portfolio/static/js/main.5975a7fc.js",
+    "main.css": "/Ben-Armstrong-React-Portfolio/static/css/main.bba2b52f.css",
+    "main.js": "/Ben-Armstrong-React-Portfolio/static/js/main.389dc022.js",
     "static/js/787.cf66d2a7.chunk.js": "/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js",
+    "static/media/BenArmstrong-Web-API-Challenge-HomeScreen.PNG": "/Ben-Armstrong-React-Portfolio/static/media/BenArmstrong-Web-API-Challenge-HomeScreen.863af8655ddc9a80af93.PNG",
+    "static/media/TradiesAnytimeAnywhere_DeployedApp.PNG": "/Ben-Armstrong-React-Portfolio/static/media/TradiesAnytimeAnywhere_DeployedApp.0063b8f5a2eb419645bd.PNG",
     "static/media/Coding.jpg": "/Ben-Armstrong-React-Portfolio/static/media/Coding.7f29107032c6a984b310.jpg",
+    "static/media/Freetify-deployed-image-working450x221.PNG": "/Ben-Armstrong-React-Portfolio/static/media/Freetify-deployed-image-working450x221.b7dd5a5d6dd5c65bd354.PNG",
+    "static/media/NoSQLSocialNetworkAPI.PNG": "/Ben-Armstrong-React-Portfolio/static/media/NoSQLSocialNetworkAPI.2482d21fdb0b9a55293e.PNG",
+    "static/media/Ben-Armstrong-Model-View-Controller-MVC-Tech-Blog_SignUpScreen451x228.PNG": "/Ben-Armstrong-React-Portfolio/static/media/Ben-Armstrong-Model-View-Controller-MVC-Tech-Blog_SignUpScreen451x228.a4c100367385f98f2b63.PNG",
+    "static/media/MetroMadness_Screen2_ShowingWork_450x223.PNG": "/Ben-Armstrong-React-Portfolio/static/media/MetroMadness_Screen2_ShowingWork_450x223.90c05683583038fc306b.PNG",
     "index.html": "/Ben-Armstrong-React-Portfolio/index.html",
-    "main.46e7c676.css.map": "/Ben-Armstrong-React-Portfolio/static/css/main.46e7c676.css.map",
-    "main.5975a7fc.js.map": "/Ben-Armstrong-React-Portfolio/static/js/main.5975a7fc.js.map",
+    "main.bba2b52f.css.map": "/Ben-Armstrong-React-Portfolio/static/css/main.bba2b52f.css.map",
+    "main.389dc022.js.map": "/Ben-Armstrong-React-Portfolio/static/js/main.389dc022.js.map",
     "787.cf66d2a7.chunk.js.map": "/Ben-Armstrong-React-Portfolio/static/js/787.cf66d2a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46e7c676.css",
-    "static/js/main.5975a7fc.js"
+    "static/css/main.bba2b52f.css",
+    "static/js/main.389dc022.js"
   ]
 }
