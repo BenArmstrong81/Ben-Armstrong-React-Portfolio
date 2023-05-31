@@ -11,22 +11,23 @@ function Portfolio() {
     <div className="portfolio">
   
       <div className="image">
-      <a href="https://benarmstrong81.github.io/Worldy-Music-at-Your-Fingertips/"> 
+      <a href="https://benarmstrong81.github.io/Worldy-Music-at-Your-Fingertips/" target="_blank" rel="noreferrer"> 
       <img className="Project1" src={Freetify} width= "585" alt="Project1"/></a>
 
-      <a href="https://github.com/BenArmstrong81/MetroMadness"> 
+      <a href="https://github.com/BenArmstrong81/MetroMadness" target="_blank" rel="noreferrer"> 
       <img className="Project2" src={MetroMadness} width= "580" alt="Project2"/></a>
 
-      <a href="https://github.com/BenArmstrong81/Ben-Armstrong-Model-View-Controller-MVC-Tech-Blog">
+      <a href="https://github.com/BenArmstrong81/Ben-Armstrong-Model-View-Controller-MVC-Tech-Blog" target="_blank" rel="noreferrer">
       <img className="MVC-TechBlog" src={TechBlog} width= "575" alt="MVCTechBlog"/></a>
 
-      <a href="https://github.com/BenArmstrong81/Ben-Armstrong-NoSQL-Social-Network-API">
+      <a href="https://github.com/BenArmstrong81/Ben-Armstrong-NoSQL-Social-Network-API" target="_blank" rel="noreferrer">
       <img className="NoSQL-Social-Network" src={NoSQL} width= "530" alt="NoSQLSocialNetwork"/></a>
 
-      <a href="https://benarmstrong81.github.io/Ben-Armstrong-Web-APIs-Code-Quiz/">
+      <a href="https://benarmstrong81.github.io/Ben-Armstrong-Web-APIs-Code-Quiz/" target="_blank" rel="noreferrer">
       <img className="CodingQuiz-API" src={CodeQuiz} width= "580" alt="CodingQuiz-API"/></a>
 
-      <a href="https://github.com/BenArmstrong81/Tradies-Anytime-Anywhere">
+      {/* <a href="https://github.com/BenArmstrong81/Tradies-Anytime-Anywhere"> */}
+      <a href="https://intense-fjord-33779.herokuapp.com/" target="_blank" rel="noreferrer">
       <img className="tradies" src={Tradies} width= "580" alt="CodingQuiz-API"/></a>
       </div>
     </div>
