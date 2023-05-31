@@ -19,6 +19,9 @@ function Portfolio() {
 
       <a href="https://benarmstrong81.github.io/Ben-Armstrong-Web-APIs-Code-Quiz/">
       <img className="CodingQuiz-API" src={process.env.PUBLIC_URL + "/images/BenArmstrong-Web-API-Challenge-HomeScreen.png"} width= "580" alt="CodingQuiz-API"/></a>
+
+      <a href="https://github.com/BenArmstrong81/Tradies-Anytime-Anywhere">
+      <img className="tradies" src={process.env.PUBLIC_URL + "/images/TradiesAnytimeAnywhere_DeployedApp.png"} width= "580" alt="CodingQuiz-API"/></a>
       </div>
     </div>
   );
